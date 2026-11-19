@@ -1,3 +1,3 @@
-# CoreyAgn.github.io
+#Corey Agnew
 
 CS 499 Capstone
